@@ -1,0 +1,23 @@
+MPU-6050
+VCC - 5V
+GND - GND
+SDA - A4
+SCL - A5
+
+Ultrasonic Sensor (HC-SR04)
+VCC - 5V
+GND - GND
+Trig - D6
+Echo - D7
+
+LED
+Anode  - D3
+Cathode  - GND
+
+Buzzer
+D4
+GND
+
+Push Button
+One side - D2
+Other side - GND
